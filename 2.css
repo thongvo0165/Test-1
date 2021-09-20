@@ -1,0 +1,15 @@
+body{
+    background-image: url(light-blue-website-background-image.jpg);
+}
+.hang1{
+    background-color: rgb(0, 173, 204);
+}
+.table1{
+    background-color: white;
+}
+.Link1{
+    font-size: 14px;
+    padding: 8px;
+    color: rgb(0, 71, 177);
+    text-decoration: none;
+}
